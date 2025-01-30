@@ -76,7 +76,7 @@ This project automates the process of **crawling** a sample e-commerce website (
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shivaniyadav06/js_unit_testing_assignment
+   git clone https://github.com/shivaniyadav06/AutomatedCrawlingProject
 
 cd AutomatedCrawlingProject
 python -m venv myenv
